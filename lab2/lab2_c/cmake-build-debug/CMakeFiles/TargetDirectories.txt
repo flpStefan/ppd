@@ -1,0 +1,3 @@
+D:/Facultate/ppd/lab2/lab2_c/cmake-build-debug/CMakeFiles/lab2_c.dir
+D:/Facultate/ppd/lab2/lab2_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/ppd/lab2/lab2_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
