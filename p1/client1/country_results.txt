@@ -1,0 +1,2 @@
+Country 0 had the score: 41208
+Country 1 had the score: 47052
